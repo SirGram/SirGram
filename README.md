@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Software Engineering Student</b>
+  <b>Web Development Student</b>
 </p>
 
 <p align="center">
