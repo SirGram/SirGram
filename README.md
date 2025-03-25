@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Web Development Student</b>
+  <b>Web Development & Other Stuff</b>
 </p>
 
 <p align="center">
